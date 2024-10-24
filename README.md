@@ -6,5 +6,5 @@
 ##### Description : Outputs yes/no likeliness of a patient having life-threatening arrhythmia complication (Ventricular Fibrillation) after heart attack occurs, using medical data by time of post heart attack hospitalization.
 
 ##### Feel free to browse the presentation for more details on the project.
-![image](https://github.com/user-attachments/assets/ebf1eb24-e24a-4b9a-9dc2-8fbc570b01ee)
-![image](https://github.com/user-attachments/assets/835cf93c-cc2e-44a7-b51e-585772882fec)
+![image](https://github.com/user-attachments/assets/ab4dd206-d0a8-4982-aeca-e964ba10fcc5)
+![image](https://github.com/user-attachments/assets/8bac9cb8-9405-4d76-8309-9b436e219365)
